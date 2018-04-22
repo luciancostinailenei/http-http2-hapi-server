@@ -1,7 +1,5 @@
 const hapi = require('hapi');
 const http2 = require('http2');
-const fs = require('fs');
-const inert = require('inert');
 const path = require('path');
 
 const serverStart = require('./server').serverStart;
