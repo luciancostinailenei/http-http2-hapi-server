@@ -15,4 +15,6 @@ NodeJS server built with Hapi framework, running on both HTTP and HTTP2. Used fo
 
 Obs.: For demo purposes, an index.html page with an image built from multiple small image squares will be displayed. 
 In order to notice the differences and highlight HTTP2's capabilities and new features, open up Chrome Developer Tools, go to Network tab,
-throttle the network to Slow 3G connection and analyse the resources loading waterfall
+throttle the network to Slow 3G connection and analyse the resources loading waterfall.
+
+Have fun and fall in love! 
